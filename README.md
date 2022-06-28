@@ -1,6 +1,6 @@
 # Django_Forms
 
-<h4 dir="auto">gitHub url:&nbsp;<a href="https://classroom.github.com/a/--YqCZZC" target="_blank">https://classroom.github.com/a/--xxxxxxx</a><br></h4>
+<h4 dir="auto">gitHub url:&nbsp;<a href="#" target="_blank">https://classroom.github.com/a/--xxxxxxx</a><br></h4>
 <p dir="ltr">Follow the link and create an admin panel for your projects.<br></p>
 <p dir="ltr">In the admin panel:<br></p>
 <p dir="ltr"></p>
