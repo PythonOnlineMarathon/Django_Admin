@@ -5,6 +5,7 @@ Create an admin panel for your projects.
 In the admin panel:
 
 * create a user with administrator rights
+* 
 * create an additional user
 * register all models listed in the models.py file
 * configure the display of lists by adding additional model fields
